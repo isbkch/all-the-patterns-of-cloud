@@ -28,12 +28,22 @@ const Main = (props: IMainProps) => (
               </Link>
             </li>
             <li className="mr-6">
-              <Link href="/about/">
-                <a>About</a>
+              <Link href="/aws">
+                <a>AWS</a>
               </Link>
             </li>
             <li className="mr-6">
-              <a href="https://github.com/ixartz/Next-js-Blog-Boilerplate">GitHub</a>
+              <Link href="/gcp/">
+                <a>GCP</a>
+              </Link>
+            </li>
+            <li className="mr-6">
+              <a href="/azure">Azure</a>
+            </li>
+            <li className="mr-6">
+              <Link href="/about/">
+                <a>About</a>
+              </Link>
             </li>
           </Navbar>
         </div>

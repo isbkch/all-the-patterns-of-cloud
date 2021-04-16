@@ -1,9 +1,9 @@
 export const Config = {
-  site_name: 'Starter',
-  title: 'Next.js Boilerplate',
-  description: 'Starter code for your Next.js blog Boilerplate with Tailwind CSS',
-  url: 'https://example.com',
+  site_name: 'All The Patterns',
+  title: 'All The Patterns',
+  description: 'A Collections Of Patterns Ready To Deploy On the Major Cloud Providers',
+  url: 'https://allthepatterns.cloud',
   locale: 'en',
-  author: 'Anonymous',
+  author: 'isbkch',
   pagination_size: 5,
 };

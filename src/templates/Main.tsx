@@ -55,7 +55,7 @@ const Main = (props: IMainProps) => (
         {' '}
         by
         {' '}
-        <a href="https://creativedesignsguru.com">CreativeDesignsGuru</a>
+        <a href="https://twitter.com/isbkch">isbkch</a>
         {/*
          * PLEASE READ THIS SECTION
          * We'll really appreciate if you could have a link to our website

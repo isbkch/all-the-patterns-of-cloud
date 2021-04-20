@@ -74,4 +74,4 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with ♥ by [isbkch](https://twitter.com/isbkch)
+Made with ♥

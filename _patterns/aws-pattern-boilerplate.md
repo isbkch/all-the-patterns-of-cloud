@@ -1,8 +1,8 @@
 ---
-title: 'Next.js blog Boilerplate Presentation'
+title: 'AWS Pattern Boilerplate'
 description: Everything you need to use this Nextjs Boilerplate template
-date: '2020-06-01'
-modified_date: '2020-06-01'
+date: '2021-04-23'
+modified_date: '2021-04-23'
 image: /assets/images/posts/random-img.jpg
 ---
 
@@ -12,9 +12,6 @@ image: /assets/images/posts/random-img.jpg
 
 🚀 Next.js Blog Boilerplate is starter code for your blog based on Next.js 10+ framework with Tailwind CSS 2.0. ⚡️ Made with [Next.js](https://nextjs.org), [TypeScript](https://www.typescriptlang.org), [ESLint](https://eslint.org), [Prettier](https://prettier.io), [PostCSS](https://postcss.org), [Tailwind CSS](https://tailwindcss.com).
 
-Clone this project and use it to create your own [Next.js](https://nextjs.org) blog. You can check a [Next js blog templates demo](https://creativedesignsguru.com/demo/Nextjs-Blog-Boilerplate/).
-
-The GitHub repository is located [Next js Blog Boilerplate](https://github.com/ixartz/Next-js-Blog-Boilerplate).
 
 ### Features
 
@@ -84,7 +81,7 @@ Open http://localhost:8080 with your favorite browser to see your project.
 
 ```shell
 .
-├── _posts            # Your blog posts
+├── _patterns         # Cloud patterns go here
 ├── public            # Static files
 │   ├── assets
 │   │   └── images

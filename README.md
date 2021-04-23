@@ -21,7 +21,7 @@ Open http://localhost:3000 with your favorite browser to see your project.
 
 ```
 .
-├── _posts            # Your blog posts
+├── _patterns         # Your blog posts
 ├── public            # Static files
 │   ├── assets
 │   │   └── images

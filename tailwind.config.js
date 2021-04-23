@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ['./src/**/*.{js,ts,jsx,tsx}', './_posts/**/*.md'],
+  purge: ['./src/**/*.{js,ts,jsx,tsx}', './_patterns/**/*.md'],
   darkMode: false,
   theme: {
     fontSize: {
